@@ -20,3 +20,5 @@ The main goal of this task is to build a machine learning model using Python and
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/b64432e6-ddb2-40ce-8a2b-79d582620b51)
+
